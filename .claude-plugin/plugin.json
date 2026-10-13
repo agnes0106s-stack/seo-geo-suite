@@ -1,0 +1,9 @@
+{
+  "name": "seo-geo-suite",
+  "description": "SEO·AEO·GEO·LLMO·NEO(네이버) 진단·구현·측정 통합 스킬. fire-your-seo-agency 실행 절차 + OpenSEO MCP 실데이터 측정 레이어.",
+  "version": "1.0.0",
+  "author": { "name": "agnes0106s-stack" },
+  "homepage": "https://github.com/agnes0106s-stack/seo-geo-suite",
+  "license": "MIT",
+  "keywords": ["seo", "aeo", "geo", "llmo", "naver", "openseo", "ai-search"]
+}

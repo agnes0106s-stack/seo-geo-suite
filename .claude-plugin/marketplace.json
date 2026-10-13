@@ -1,0 +1,13 @@
+{
+  "name": "seo-geo-suite",
+  "description": "SEO·AEO·GEO·LLMO·NEO 통합 스킬 마켓플레이스",
+  "owner": { "name": "agnes0106s-stack" },
+  "plugins": [
+    {
+      "name": "seo-geo-suite",
+      "source": "./",
+      "description": "SEO·AEO·GEO·LLMO·NEO(네이버) 진단·구현·측정. OpenSEO MCP 연결 시 실데이터 모드.",
+      "version": "1.0.0"
+    }
+  ]
+}
